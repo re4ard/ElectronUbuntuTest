@@ -1,0 +1,23 @@
+.bg {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background-color: #434343;
+}
+.text {
+    position: absolute;
+    left: 185px;
+    top: 375px;
+    width: 1550px;
+height: 330px;
+flex-shrink: 0;
+    color: #FFF;
+font-family: Inter;
+font-size: 128px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
